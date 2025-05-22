@@ -1,3 +1,6 @@
 - [首頁](README.md)
 - [範例教學](example.md)
-- [Android 教學](android.md)
+- [IOS/iPad教程](ios.md)
+- [Android 安卓教程](android.md)
+- [Windows电脑教程](windows.md)
+- [Mac电脑教程](mac.md)
